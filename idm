@@ -1,0 +1,2 @@
+[root@registry ~]# yum install ipa-server
+[root@registry ~]# ipa-server-install
